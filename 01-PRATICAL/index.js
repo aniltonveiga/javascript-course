@@ -13,12 +13,9 @@
 /** 05 - Utilizando a variável da pergunta 04, imprima o nome do segundo familiar armazenado.*/
 
 /** 06 - Crie uma variável chamada "parente" e armazene duas propriedades nome e parentesco (parentesco = pai,
- * mae, tio, tia), imprima na tela o nome e o parentesco do seu parente.
- */
+ * mae, tio, tia), imprima na tela o nome e o parentesco do seu parente.*/
 
 /** 07 - Altere a variável "familia" para receber os 3 familiares, mas agora adicionando para cada familiar além
- * do nome o parentesco, conforme feito na pergunta 05.
- */
+ * do nome o parentesco, conforme feito na pergunta 05.*/
 
-/** 08 - Utilizando a variável da pergunta 07, imprima o nome e parentesco do útlimo familiar.
- */
+/** 08 - Utilizando a variável da pergunta 07, imprima o nome e parentesco do útlimo familiar.*/
