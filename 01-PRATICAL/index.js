@@ -1,6 +1,6 @@
 /** Para resolver esses exercícios, adicione a linha ou bloco de código correspondente abaixo do enunciado.  /*
 
-/** 01 - Declare uma variável sem valor que poderá ser acessada de forma "global" por qualquer função dentro do seu arquivo com nome global */
+/** 01 - Declare uma variável sem valor que poderá ser acessada de forma "global" por qualquer função dentro do seu arquivo com nome "global" */
 
 /** 02 - Agora atribua a variavel "global" o valor "Essa é minha variável global" e imprima na tela */
 
